@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Family Apartment	</title>
-	<atom:link href="https://chaucuongphu.github.io/mywordpress/san-pham/family-apartment-17/feed/" rel="self" type="application/rss+xml" />
-	<link>https://chaucuongphu.github.io/mywordpress/san-pham/family-apartment-17/</link>
+	<atom:link href="http://chaucuongphu.github.io/mywordpress/san-pham/family-apartment-17/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chaucuongphu.github.io/mywordpress/san-pham/family-apartment-17/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Fri, 14 Oct 2022 11:39:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
