@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>http://chaucuongphu.github.io/mywordpress/2022/08/19/chao-moi-nguoi/</link>
-					<comments>http://chaucuongphu.github.io/mywordpress/2022/08/19/chao-moi-nguoi/#comments</comments>
+		<link>http://chaucuongphu.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>http://chaucuongphu.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[CCP]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2022 01:25:26 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://chaucuongphu.github.io/mywordpress/2022/08/19/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://chaucuongphu.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
